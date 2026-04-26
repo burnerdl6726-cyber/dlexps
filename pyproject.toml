@@ -1,0 +1,12 @@
+[project]
+name = "dlexps"
+version = "0.1.0"
+description = "Deep learning experiments toolkit"
+authors = [{ name = "anon" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
